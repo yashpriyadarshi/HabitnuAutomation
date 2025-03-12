@@ -1,0 +1,17 @@
+<suite name="BlazeDemoTests">
+    <test name="Home Page Tests">
+        <classes>
+            <class name="com.habitnu.automation.testcases.HomePageTest"/>
+        </classes>
+    </test>
+    <test name="Flight Booking Tests">
+        <classes>
+            <class name="com.habitnu.automation.testcases.FlightBookingTest"/>
+        </classes>
+    </test>
+    <test name="Purchase Page Test">
+        <classes>
+            <class name="com.habitnu.automation.testcases.PurchaseTest"/>
+        </classes>
+    </test>
+</suite>
